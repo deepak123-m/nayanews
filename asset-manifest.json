@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nayanews/static/css/main.f855e6bc.css",
+    "main.js": "/nayanews/static/js/main.7facd05e.js",
+    "static/js/453.b2157c12.chunk.js": "/nayanews/static/js/453.b2157c12.chunk.js",
+    "static/media/loading.gif.gif": "/nayanews/static/media/loading.gif.1a32f552ee5280e2aef9.gif",
+    "index.html": "/nayanews/index.html",
+    "main.f855e6bc.css.map": "/nayanews/static/css/main.f855e6bc.css.map",
+    "main.7facd05e.js.map": "/nayanews/static/js/main.7facd05e.js.map",
+    "453.b2157c12.chunk.js.map": "/nayanews/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7facd05e.js"
+  ]
+}
